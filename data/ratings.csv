@@ -1,0 +1,111 @@
+id,filme_id,usuario_id,nota,comentario
+1,1,1,10,Obra-prima absoluta!
+2,2,2,9.5,Visual incrível e emocionante.
+3,3,3,9,Um clássico moderno.
+4,4,4,8.5,Revolucionário para o cinema de ação.
+5,5,5,9.8,Filme surpreendente e inteligente.
+6,6,6,9.2,Emocionante e inspirador.
+7,7,7,10,Fantasia épica no seu melhor.
+8,8,8,8.7,Grandioso e emocionante.
+9,9,9,8.9,Musical moderno e cativante.
+10,10,10,9.3,Intenso e eletrizante.
+11,11,11,8.7,Ótimo filme de máfia.
+12,12,12,8.9,Surpreendente e inovador.
+13,13,13,9.1,Violento e impactante.
+14,14,14,8.5,Visualmente impressionante.
+15,15,15,9.0,Um dos melhores sci-fi recentes.
+16,16,16,8.8,Assustador e inteligente.
+17,17,17,9.2,Romântico e filosófico.
+18,18,18,8.6,Revolucionário para super-heróis.
+19,19,19,8.9,Divertido e emocionante.
+20,20,20,8.8,Emocionante e criativo.
+21,21,21,9.0,Animação tocante.
+22,22,22,8.7,Divertido para todas as idades.
+23,23,23,9.1,Visualmente espetacular.
+24,24,24,8.9,Drama intenso.
+25,25,25,8.8,Comédia dramática sensível.
+26,26,26,8.7,Importante e necessário.
+27,27,27,8.6,Investigação jornalística brilhante.
+28,28,28,8.5,História poderosa.
+29,29,29,7.9,Comédia de guerra diferente.
+30,30,30,8.2,Estiloso e envolvente.
+31,31,31,8.3,Baseado em fatos reais.
+32,32,32,7.8,Distopia juvenil.
+33,33,33,8.5,Fantasia mágica.
+34,34,34,8.6,Animação irreverente.
+35,35,35,8.7,Clássico da Pixar.
+36,36,36,8.8,Super-heróis em ação.
+37,37,37,8.5,Início do MCU.
+38,38,38,8.6,Ótima sequência.
+39,39,39,8.7,Divertido e colorido.
+40,40,40,8.8,Trilha sonora marcante.
+41,41,41,8.9,Herói irreverente.
+42,42,42,8.7,Ação frenética.
+43,43,43,8.6,Espionagem de alto nível.
+44,44,44,8.5,Clássico de ação.
+45,45,45,8.4,Boxe inspirador.
+46,46,46,8.3,Renovação da franquia.
+47,47,47,8.2,Clássico dos anos 80.
+48,48,48,8.1,Aventura juvenil.
+49,49,49,8.0,Jurássico e emocionante.
+50,50,50,9.0,Animação inesquecível.
+51,1,2,8.5,Filme excelente!
+52,2,3,8.0,Boa ficção científica.
+53,3,4,7.5,Interessante e diferente.
+54,4,5,7.0,Um pouco confuso.
+55,5,6,8.2,Ótima crítica social.
+56,6,7,8.7,Inspirador.
+57,7,8,9.5,Fantástico!
+58,8,9,8.3,Ótima ação.
+59,9,10,8.1,Musical envolvente.
+60,10,1,8.9,Filme intenso.
+61,11,2,8.0,Clássico do gênero.
+62,12,3,8.1,Trama envolvente.
+63,13,4,8.2,Filme coreano marcante.
+64,14,5,8.3,Visual de tirar o fôlego.
+65,15,6,8.4,Ótima ficção.
+66,16,7,8.5,Assustador!
+67,17,8,8.6,Reflexivo.
+68,18,9,8.7,Super-herói diferente.
+69,19,10,8.8,Divertido para família.
+70,20,1,8.9,Animação emocionante.
+71,21,2,9.0,Pixar no topo.
+72,22,3,8.1,Divertido.
+73,23,4,8.2,Ótima animação.
+74,24,5,8.3,Drama tocante.
+75,25,6,8.4,Comédia sensível.
+76,26,7,8.5,Importante.
+77,27,8,8.6,Investigação brilhante.
+78,28,9,8.7,História forte.
+79,29,10,7.9,Comédia diferente.
+80,30,1,8.2,Filme estiloso.
+81,31,2,8.3,Baseado em fatos.
+82,32,3,7.8,Distopia interessante.
+83,33,4,8.5,Fantasia clássica.
+84,34,5,8.6,Animação divertida.
+85,35,6,8.7,Pixar sempre ótima.
+86,36,7,8.8,Heróis unidos.
+87,37,8,8.5,Início do universo Marvel.
+88,38,9,8.6,Sequência excelente.
+89,39,10,8.7,Colorido e divertido.
+90,40,1,8.8,Trilha sonora incrível.
+91,1,3,9.0,Clássico absoluto.
+92,1,4,8.7,Obra-prima do cinema.
+93,2,4,7.9,Boa mas longa.
+94,2,5,8.2,Visual impressionante.
+95,3,5,8.5,Impactante.
+96,3,6,8.0,Interessante.
+97,4,6,7.8,Revolucionário.
+98,5,7,9.1,Filme coreano incrível.
+99,5,8,8.7,Surpreendente.
+100,5,9,8.9,Ótimo roteiro.
+101,10,2,9.1,Atuações brilhantes.
+102,10,3,8.7,Filme intenso.
+103,10,4,8.5,Drama musical.
+104,20,3,8.6,Animação emocionante.
+105,20,4,8.7,Pixar sempre emociona.
+106,20,5,8.8,Filme criativo.
+107,30,2,8.0,Estiloso e diferente.
+108,30,3,8.1,Boa trilha sonora.
+109,30,4,8.2,Filme marcante.
+110,30,5,8.3,Ótima direção.
