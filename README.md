@@ -53,3 +53,4 @@ LIMIT 1;
 - Os dois Dockerfiles e docker-compose.yml
 - Workflow em .github/docker.yml
 - Script de carga load_csv_data.py
+- Imagem no [dockerhub](https://hub.docker.com/repository/docker/carhab/movieflix-api/general)
